@@ -1,19 +1,3 @@
-// @import url('https://fonts.googleapis.com/css2?family=Keania+One&display=swap');
-
-// //Colors
-// $background-color: #000000;
-// $background-color-1: #00000036,;
-// $background-color-2: #ffffff;
-// $main-color: #ffcd07e3;
-// $main-color-1: #f7c501;
-// $main-color-2: #25474E;
-// $btns: #9B6120;
-// $details: #72ABB5;
-// $details-2: #302C2A;
-// $relief: #128A97;
-// $relief-1:rgb(15, 107, 117)97;
-// $bg: #746E5A;
-
 @import url('https://fonts.googleapis.com/css2?family=Keania+One&display=swap');
 /* --------------- Website Theme --------------- */
 
@@ -471,7 +455,6 @@ body.open .hamburger .bar:last-child {
   position: absolute;
   border-radius: 0px 0px 62px 62px;
   width: 95%;
-  bottom: 0;
   left: 50%;
   transform: translateX(-50%);
 }
